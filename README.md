@@ -22,12 +22,12 @@ that move companies towards maturity in adopting AI - Transformation.
 did not follow the traditional track of performing the same role in IT for
 several years.  Most developers I know who ended up in management grew tired
 of writing the same code year after year, so decided to challenge themselves 
-by stepping into management.  In my career I have more roles than most people
-I have ever met in IT.  Ironically, I found it frustrating at the time, but
-I believe it has also uniquely positioned me to be knowledgeable about how to
-create technology roadmaps, lead teams, and drive innovation across the technology 
-stack just in time for the AI revolution.  My goal is to help companies drive
-AI-Adoption with as much efficiency as possible.
+by stepping into management.  In my career, I have fulfilled more roles than 
+most people I have ever met in IT.  Ironically, I found it frustrating at the 
+time, but I believe it has also uniquely positioned me to be knowledgeable 
+about how to create technology roadmaps, lead teams, and drive innovation 
+across the technology stack just in time for the AI revolution.  My goal is 
+to help companies achieve AI Transformation with as much efficiency as possible.
 
 ### Leadership
   - Platform Manager
