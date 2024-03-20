@@ -29,22 +29,22 @@ create technology roadmaps, lead teams, and drive innovation across the technolo
 stack just in time for the AI revolution.  My goal is to help companies drive
 AI-Adoption with as much efficiency as possible.
 
-- Leadership
- - Platform Manager
+### Leadership
+  - Platform Manager
  - Software Manager
  - Program Management
  - Personnel and Team Management
  - Product and Project Management
  - Management Excellence Training
  - GiANT Training
-- Full-Stack Development
+### Full-Stack Development
  - UI/API Lead
  - Angular and Angular Material
  - Java, Spring, JSP Development
  - HTML, CSS, JavaScript, TypeScript, SCSS,
  - Component Library Development
  - Graduate Certificate in Enterprise Java
-- DevOps, Computer Operations, and System Administration
+### DevOps, Computer Operations, and System Administration
   - HP/Tandem TACL Job monitoring
   - UC4 and Control-M Automation and Monitoring
   - Linux System Administration for Development Servers
@@ -54,7 +54,7 @@ AI-Adoption with as much efficiency as possible.
   - BitBucket Admin and Configuration
   - GitFlow process implementation and instruction
   - Automation with UC4, Control-M, BASH, and Python
-- Data and Business Intelligence
+### Data and Business Intelligence
  - Extract Transform and Load (ETL) with BASH, Java, and Python
  - Database development, Stored Procedures, Query Tuning
  - Built Qlikview Dashboards
