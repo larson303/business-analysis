@@ -1,5 +1,7 @@
 
-- Meet at the same time
+- Regularly scheduled time commitment
 - Go through the videos individually
-- Then discuss what we learned and quiz
+- Review what was learned
+	- Create Quiz
+	- Take Quiz
 

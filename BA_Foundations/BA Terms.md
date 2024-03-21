@@ -1,0 +1,19 @@
+
+- business acumen
+	- In the context of business analysis, business acumen refers to the business analyst who is more knowledgeable about the organization, industry, or application area, and can help identify and analyze alternative solutions for a problem
+- business analysis
+	- Business analysis seeks to identify and understand business needs, and provide solutions to enable change
+- business case
+	- A business case documents the justification of a project or initiative 
+- cost of quality
+	- In the context of process improvements, cost of quality is a methodology or means to quantify the total cost of quality-related efforts and deficiencies
+- International Institute of Business Analysis (IIBA)
+	- The International Institute of Business Analysis (IIBA) is a nonprofit professional association, formed in 2003, whose mission is to support and promote the discipline of business analysis
+- project charter
+	- The project charter is a formal document, short in nature, that describes the entire project
+- Project Management Institute (PMI)
+	- The Project Management Institute (PMI) is a global nonprofit professional organization, formed in 1969, whose mission is to support and promote the discipline of project management
+- project roadmap
+	- The project roadmap is a chronological representation of features and functions, as well as the dependencies between major milestones and resource requirements
+- project vision
+	- The project vision is an idealistic view that helps you stay on task and

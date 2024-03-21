@@ -37,7 +37,7 @@
 - Reviewing capabilities and requirements.  Always provide multiple options
 - 
 
-# Quiz
+# Section 2 Quiz
 
 Once a business analyst understands an organization's needs, and has the relevant data, they draft a(n) `_____` to clarify the impact on the organization.
 - situation statement
