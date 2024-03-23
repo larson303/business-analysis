@@ -113,3 +113,17 @@ Just as people get satisfaction from knowing when an online order will be delive
 
 # Section 7 Quiz
 
+1. A `_____` is a single source to connect all project requirement documentation.
+	1. traceability matrix
+		- This is a primary tool for tracking your efforts, improving communication, and clarifying your progress.
+	2. process flow model
+	3. Ishikawa diagram
+	4. Traceability Approach
+
+
+2. The process of analyzing the effect of a change on a system is called `_____`.
+	1. dependency management
+	2. requirements management
+	3. impact analysis
+	4. change management
+		 - Change management analyzes the effect of a change on either project requirements or the change from "as-is" to "to-be."
