@@ -48,18 +48,67 @@ Just as people get satisfaction from knowing when an online order will be delive
 			- Development
 			- Test
 		- Done
-- A Detailed Traceability matrix may include RoadMaps, Features, and Epics that drill down to user stories
+- A Detailed Traceability matrix may include Road Maps, Features, and Epics that drill down to user stories
 	- Can connect each requirement to the corresponding business and project objectives
 - 
 
 
-
-
-
-
-
 # Change Control
 
+- Change happens all the time
+	- It is happening faster 
+	- It is happening more often?
+	- Are these the same thing?
+
+
+## The Critical Role of the BA
+
+- How well a company deals with change is a strong indictor of their long-term stability in the face of disruptive technologies.
+	- We can't simply react to every request for change ... 
+		- or can we?
+	- Do we modify our current work .. .or continue as planned?
+
+- Dealing with Change is the critical
+	- Receive and log all requests for change
+	- Regardless of the type or source of the request
+- These should all be handled in the Requirements Management Plan
+
+## Requirements Management Plan
+
+### Who Decides?
+
+- Large Changes: Change Control Board / CCB / (Steering committee)
+	- Responsible for major changes that require approval
+
+- Small Changes: Product Owner, Project Manager, Business Analyst
+
+### How To Manage:
+
+- Divide and Conquer
+	- Working towards shorter times
+	- Working towards smaller Portions
+
+### Configuration Control:
+- Tracking of Changes to documents or processes via version control
+	- Important to ensure that everyone is aware of the change
+
+
+# Section 7 Quiz
+
+1. A `_____` is a single source to connect all project requirement documentation.
+	1. traceability matrix
+		- This is a primary tool for tracking your efforts, improving communication, and clarifying your progress.
+	2. process flow model
+	3. Ishikawa diagram
+	4. Traceability Approach
+
+
+2. The process of analyzing the effect of a change on a system is called `_____`.
+	1. dependency management
+	2. requirements management
+	3. impact analysis
+	4. change management
+		 - Change management analyzes the effect of a change on either project requirements or the change from "as-is" to "to-be."
 
 
 # Section 7 Quiz

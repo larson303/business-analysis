@@ -121,3 +121,61 @@
 	2. interview
 	3. analysis of documentation
 	4. questionnaire
+
+# Section 7 Quiz
+
+1. A `_____` is a single source to connect all project requirement documentation.
+	1. traceability matrix
+		- This is a primary tool for tracking your efforts, improving communication, and clarifying your progress.
+	2. process flow model
+	3. Ishikawa diagram
+	4. Traceability Approach
+
+
+2. The process of analyzing the effect of a change on a system is called `_____`.
+	1. dependency management
+	2. requirements management
+	3. impact analysis
+	4. change management
+		 - Change management analyzes the effect of a change on either project requirements or the change from "as-is" to "to-be."
+
+# Section 8 Quiz
+
+1. Verification and testing of requirements `_____`
+	- is equivalent to stakeholder approval
+	- is the sole responsibility of the business analyst
+	- are done continually as the business analyst reviews the requirements with stakeholders
+		- Verification of requirements is done to make sure that the requirements were correctly understood prior to development--and then as part of testing to make sure that the development of the requirements met specifications.
+	- is the sole responsibility of the development team, not the business analyst
+
+2. What is the ultimate purpose of validation?
+	- to ensure that the result is deployable
+	- to ensure that deadlines are being met
+	- to ensure that the result meets the acceptance criteria and the needs of the stakeholders
+		- Validation ensures that the needs have been meet.
+	- to ensure conformance to the provided specifications
+
+
+# Section 9 Quiz
+
+1. Which is NOT included in a transition plan?
+	- collection of deferred or rejected change requests
+		- Unapproved change requests are not transitioned to the receiving organization.
+	- user and support documentation
+	- optional conversion from "as-is" to "to-be"
+	- training for the new solution
+
+2. Which statement about the release process is TRUE?
+
+	- The nature of your audience will affect how your product is released.
+	- all of these answers
+		- All these statements are true.
+	- It's unlikely that you will be able to release everything at once. You will have to prioritize some items over others.
+	- Release planning should be included somewhere in your initial roadmap.
+
+3. Implementation planning activities include all of the following EXCEPT:
+	- activities for tracking usage of the solution
+	- shadowing to ensure acceptance of solution
+	- finalizing payments and shutting down funding
+		- Often, during the implementation phase more funding is required to ensure the successful implementation of the solution. If you withdraw funding, all your work may go to waste at the final stage.
+	- supporting ongoing training needs
